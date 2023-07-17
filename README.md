@@ -76,5 +76,18 @@
   <h2>Contact</h2>
 
   <p>For any inquiries or questions regarding the PV Potential Estimation plugin, please contact <a href=mailto:yavuzdogan@gumushane.edu.tr> yavuzdogan@gumushane.edu.tr"</a>. We appreciate your feedback and support.</p>
+
+  <h2>Contact</h2>
+
+  <p>For any inquiries or questions regarding the PV Potential Estimation plugin, please contact <a href=mailto:yavuzdogan@gumushane.edu.tr> yavuzdogan@gumushane.edu.tr"</a>. We appreciate your feedback and support.</p>
+
+  <h2>Citation</h2>
+
+    <p>If you use the SPAN plugin in your work, please cite the following article:</p>
+  <em>
+    <blockquote>
+      <p>Özdemir, S., Yavuzdoğan, A., Bilgilioğlu, B. B., & Akbulut, Z. (2023). SPAN: An open-source plugin for photovoltaic potential estimation of individual roof segments using point cloud data. <em>Renewable Energy</em>, 119022. doi:10.1016/j.renene.2023.119022</p>
+    </blockquote>
+  </em>
 </body>
 </html>
