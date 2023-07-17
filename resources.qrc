@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/Solar_PW_Calculator" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>
