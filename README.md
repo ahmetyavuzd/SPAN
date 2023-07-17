@@ -67,7 +67,7 @@
 
   <h2>License</h2>
 
-  <p>This plugin is released under the [insert license name] license. For more information, please refer to the <a href="link_to_license_file">LICENSE</a> file.</p>
+  <p>This plugin is released under the [insert license name] license. For more information, please refer to the <a href="https://github.com/ahmetyavuzd/SPAN/blob/main/solar_pw_calculator/LICENSE.lic">LICENSE</a> file.</p>
 
   <h2>Contributions</h2>
 
