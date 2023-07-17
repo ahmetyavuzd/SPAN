@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>SPAN: Solar Potential Analyzer</title>
 </head>
 <body>
   <h1>SPAN: Solar Potential Analyzer</h1>
