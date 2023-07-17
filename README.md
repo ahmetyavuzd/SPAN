@@ -77,10 +77,6 @@
 
   <p>For any inquiries or questions regarding the PV Potential Estimation plugin, please contact <a href=mailto:yavuzdogan@gumushane.edu.tr> yavuzdogan@gumushane.edu.tr"</a>. We appreciate your feedback and support.</p>
 
-  <h2>Contact</h2>
-
-  <p>For any inquiries or questions regarding the PV Potential Estimation plugin, please contact <a href=mailto:yavuzdogan@gumushane.edu.tr> yavuzdogan@gumushane.edu.tr"</a>. We appreciate your feedback and support.</p>
-
   <h2>Citation</h2>
 
   <p>If you use the SPAN plugin in your work, please cite the following article:</p>
