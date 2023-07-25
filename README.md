@@ -30,10 +30,16 @@
     <h3>Installation via QGIS Repository</h3>
     <h4>Installation Dependencies</h4>
     <li>Open OSGeo4W Shell software which should already be installed on your computer along with QGIS.</li>
-    <li>Paste '''shell
+    <li>Paste the following code into the OSGeo4W Shell:</li>
+  </ol>
+
+  <pre>
+    <code>
       pip install openpyxl pyqtgraph selenium open3d laspy
-      '''
-    </li>
+    </code>
+  </pre>
+
+  <ol>
     <li>Open QGIS software.</li>
     <li>Navigate to the Plugins menu.</li>
     <li>Select "Manage and Install Plugins..."</li>
